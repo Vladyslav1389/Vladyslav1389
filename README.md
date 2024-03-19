@@ -10,6 +10,8 @@
 
 [Finance Calculator](https://github.com/Vladyslav1389/My_HyperionDev_Tasks/blob/master/T5%20capstone%20project/finance_calculators.py)
 
+[Holiday cost calculator](https://github.com/Vladyslav1389/My_HyperionDev_Tasks/blob/validation/T16%20-%20User-defined%20Functions/holiday.py)
+
 ### Contact
 - 📫 How to reach me: _vladserbak890@gmail.com_
 
